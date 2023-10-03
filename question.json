@@ -1,0 +1,3832 @@
+
+[
+    {
+    "question": "Which of these is not a primary element of design?",
+    "choice1": "Line",
+    "choice2": "Point",
+    "choice3": "Colour",
+    "choice4": "Plane",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "A point extended becomes a?",
+    "choice1": "Line",
+    "choice2": "Plane",
+    "choice3": "Volume",
+    "choice4": "All of the above",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "Which of these is not a property of line?",
+    "choice1": "Length",
+    "choice2": "Surface",
+    "choice3": "Direction",
+    "choice4": "Position",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "Which of these is not a property of plane?",
+    "choice1": "Length & Width",
+    "choice2": "Shape ",
+    "choice3": "Orientation",
+    "choice4": "Depth",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "Vertical linear elements include the following except?",
+    "choice1": "Obelisks",
+    "choice2": "Dome",
+    "choice3": "Column",
+    "choice4": "Tower",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "Which of these is not a gerneric type of plane in Architecture?",
+    "choice1": "Overhead Plane",
+    "choice2": "Wall Plane",
+    "choice3": "Base Plane",
+    "choice4": "None of the above",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "Which of these is not a primary shape in Architecture?",
+    "choice1": "Circle",
+    "choice2": "Rectangle",
+    "choice3": "Triangle",
+    "choice4": "Square",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "All but one is not a basic posibility of grouping two or more forms?",
+    "choice1": "Substitution",
+    "choice2": "Spatial Tension",
+    "choice3": "Interlocking Volumes",
+    "choice4": "Face-to-face Contact",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "All but one is not a method of form transformation?",
+    "choice1": "Dimensional Transformation",
+    "choice2": "Subtractive Transformation",
+    "choice3": "Spatial Transformation",
+    "choice4": "Additive Transformation",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "One of the following is not configuration of path in Architecture?",
+    "choice1": "Linear",
+    "choice2": "Composite",
+    "choice3": "Offset",
+    "choice4": "Grid",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "A circulation space may not be one of the following?",
+    "choice1": "Enclosed",
+    "choice2": "Open on one side",
+    "choice3": "Open on both side",
+    "choice4": "Concentrated",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "One of the follow is not a theory of propotion?",
+    "choice1": "Golden Section",
+    "choice2": "Renissance Theories",
+    "choice3": "Anthropometry",
+    "choice4": "Model",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "One of the follow is not a type of propotion?",
+    "choice1": "Arithmetic",
+    "choice2": "Concentric",
+    "choice3": "Geometric",
+    "choice4": "Harmonic",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "One of the following is not a classical order in Architecture?",
+    "choice1": "Composite",
+    "choice2": "Corinthian",
+    "choice3": "Roman",
+    "choice4": "Tuscan",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "All but one is not a method of temple classification according to their intercolumnation?",
+    "choice1": "Iconstyle",
+    "choice2": "Eustyle",
+    "choice3": "Araeostyle",
+    "choice4": "Diastyle",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "All but one is not an odering principle?",
+    "choice1": "Concept",
+    "choice2": "Symmetry",
+    "choice3": "Hierarchy",
+    "choice4": "Transformation",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "One of the following is not use to achieve visual emphasis on a form or shape?",
+    "choice1": "Exceptional size",
+    "choice2": "A unique shape",
+    "choice3": "A strategic location",
+    "choice4": "Exceptional space",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is an Abbey?",
+    "choice1": "A church",
+    "choice2": "A monastery",
+    "choice3": "A hall",
+    "choice4": "A cemetery",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is an abutment?",
+    "choice1": "The south wing of a structure",
+    "choice2": "The west wing of a structure",
+    "choice3": "The part of a structure that recive thrust",
+    "choice4": "An opening in a structure",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is an Agora?",
+    "choice1": "A market square in ancient Greek",
+    "choice2": "A palace in ancient Greek",
+    "choice3": "A temple in ancient Greek",
+    "choice4": "A monastry in ancient Greek",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is Mihrab?",
+    "choice1": "A decorative panel in a Church",
+    "choice2": "A decorative panel in a monastery",
+    "choice3": "A decorative panel in a palace",
+    "choice4": "A decorative panel in a mosque",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is a Monastery?",
+    "choice1": "A place of worship",
+    "choice2": "A place of residence",
+    "choice3": "A market square",
+    "choice4": "A high court in ancient Greek",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is a Dian?",
+    "choice1": "A palace hall in Chinese architecture",
+    "choice2": "A temple in Chinese architecture",
+    "choice3": "A  market square in Chinese architecture",
+    "choice4": "A school in Chinese architecture",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is a Cornice?",
+    "choice1": "The shaft of a doric column",
+    "choice2": "The base member of a classical entablature",
+    "choice3": "The uppermost member of a classical entablature",
+    "choice4": "The middle member of a classical entablature",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is an Apse?",
+    "choice1": "The north end of a building",
+    "choice2": "The entrance of a building",
+    "choice3": "A semicircular projection of a building",
+    "choice4": "An opening in a building",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "One of the following is not a principle in Architecture?",
+    "choice1": "Firmness",
+    "choice2": "Commodity",
+    "choice3": "Delighty",
+    "choice4": "Cost",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "One of the following is not a phase in Architecture?",
+    "choice1": "Design Development",
+    "choice2": "Modelling",
+    "choice3": "Contract Documents",
+    "choice4": "Contract Administration",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "Who is the architect of the Quiapo Church before its restoration?",
+    "choice1": "Juan Nakpil",
+    "choice2": "Tomas Mapua",
+    "choice3": "Jose Herrera",
+    "choice4": "Cesar Concio",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "Who are the founders of Art Noveau?",
+    "choice1": "John Ruskin and William Moris",
+    "choice2": "Tomas Mapua and Jose Herrera",
+    "choice3": "Jose Herrera and Frank Lloyd Wright",
+    "choice4": "Cesar Concio and Tomas Mapua ",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is space between the colonnade and the naos wall in Greek temple?",
+    "choice1": "Antefix",
+    "choice2": "Stoa",
+    "choice3": "Pteroma",
+    "choice4": "Anthemion",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is dining hall in a monastery, a convent, or a college?",
+    "choice1": "Cortel",
+    "choice2": "Dipteral",
+    "choice3": "Apse",
+    "choice4": "Refectory",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "Which of the order was added by the Romans to the orders used by the Greeks?",
+    "choice1": "Corinthian",
+    "choice2": "Composite",
+    "choice3": "Ionic",
+    "choice4": "Doric",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is the Architecture of curved line is known as?",
+    "choice1": "Romanesque",
+    "choice2": "Baraque",
+    "choice3": "Medieval",
+    "choice4": "Renaissance",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "Who are the Architects of the Hagia Sophia. (St. Sophia,Constantinople)",
+    "choice1": "Anthemius and Isidorus",
+    "choice2": "Cossutius and Mnesicles",
+    "choice3": "Callicrates and Ictinus",
+    "choice4": "Theron and Libon",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "Orientation of the Medieval Church is towards the",
+    "choice1": "West",
+    "choice2": "North",
+    "choice3": "East",
+    "choice4": "South",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "Greek architecture was essentially",
+    "choice1": "Domical roof construction",
+    "choice2": "Helm Roof",
+    "choice3": "Arch and vault",
+    "choice4": "Columnar trabeated",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "Which of the following indicates the name of a color?",
+    "choice1": "Intensity",
+    "choice2": "Chroma",
+    "choice3": "Hue",
+    "choice4": "Value",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is the principal type of building in Muslim Architecture?",
+    "choice1": "Temple",
+    "choice2": "Mausoleum",
+    "choice3": "Church",
+    "choice4": "Mosque",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "What type of architectural character is derived through the use of the building?",
+    "choice1": "Function",
+    "choice2": "Association",
+    "choice3": "Personality",
+    "choice4": "Materials",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "What art principle shows the relationships between the various parts of an object/structure/groups of objects and structures?",
+    "choice1": "Scale",
+    "choice2": "Proportion",
+    "choice3": "Size",
+    "choice4": "Volume",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "Which historic style of architecture first introduced the clerestory?",
+    "choice1": "West Asiatic",
+    "choice2": "Egyptian",
+    "choice3": "Greek",
+    "choice4": "Roman",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "Which of the following represent the primary colors?",
+    "choice1": "Red, yellow, green",
+    "choice2": "Green, orange, violet",
+    "choice3": "Red, yellow, blue",
+    "choice4": "Blue, yellow, violet",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "The final plan shape of the St. Peter's Basilica by Carlo Maderna.",
+    "choice1": "Greek Cross",
+    "choice2": "English Cross",
+    "choice3": "French Cross",
+    "choice4": "Latin Cross",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "In the falling water, what is the function of the overhanging slab?",
+    "choice1": "Open dining area",
+    "choice2": "Bedroom",
+    "choice3": "Living",
+    "choice4": "Terrace",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "The Basilica di Santa Maria del Fiore is world-renowned and has the largest brick dome ever constructed, it is also known as?",
+    "choice1": "Florence cathedral",
+    "choice2": "Sienna cathedral",
+    "choice3": "St. Pauls Cathedral",
+    "choice4": "Basilica of the holy blood",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "A greek temple has 6 columns in front and at the back, at its sides, it has eleven columns, that includes the outermost columns at the front and back. What do you call this kind of temple?",
+    "choice1": "Peripteral",
+    "choice2": "Pseudodipteral",
+    "choice3": "Decastyle",
+    "choice4": "Tetrastyle",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "What do you call a sculpted female figure serving as an architectural support taking the place of a column or a pillar supporting an entablature on her head?",
+    "choice1": "Atlantes",
+    "choice2": "Caryatid",
+    "choice3": "Gargoyle",
+    "choice4": "Statue",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "A style influenced by geometric figures?",
+    "choice1": "Renaissance",
+    "choice2": "Gothic",
+    "choice3": "Art deco",
+    "choice4": "Romanesque",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "Who gave the statue of liberty to the US?",
+    "choice1": "Spain",
+    "choice2": "Italy",
+    "choice3": "France",
+    "choice4": "Portugal",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "Temple whose most remarkable feature is use of all 3 greek orders, Doric outside, ionic & Corinthian within is?",
+    "choice1": "Parthenon",
+    "choice2": "Apollo epicurius",
+    "choice3": "Artemus",
+    "choice4": "None",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "In egyptian architecture, tomb of pharaohs was the?",
+    "choice1": "Abbey",
+    "choice2": "Ziggurat",
+    "choice3": "Mastaba",
+    "choice4": "Pyramid",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "From 5th century to the present, character of Byzantine architecture is?",
+    "choice1": "Ribbed arches",
+    "choice2": "Timber trusses",
+    "choice3": "Valut",
+    "choice4": "Domical roof construction",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "One of Frank Lloyd Wright's organic architecture?",
+    "choice1": "Falling water",
+    "choice2": "Dulles airport",
+    "choice3": "Robbie house",
+    "choice4": "Petronas tower",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "A Roman rectangular temples stood on a?",
+    "choice1": "Pedestal",
+    "choice2": "Crepidoma",
+    "choice3": "Podium",
+    "choice4": "Stylobate",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "A continuous base of structure on which a colonnade is placed?",
+    "choice1": "Stereobate",
+    "choice2": "Stylobate",
+    "choice3": "Base",
+    "choice4": "Crepidoma",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "Monumental arch of Egypt is essentially a what style?",
+    "choice1": "Buttress & dome",
+    "choice2": "Stylobate",
+    "choice3": "Arch & vault",
+    "choice4": "Columnar & trabeated",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "A grotesquely carved figure of a human or animal, serves as a spout and projects from the gutter to throw rainwater clear off a building?",
+    "choice1": "Gargoyle",
+    "choice2": "Down spout",
+    "choice3": "Carved parapet",
+    "choice4": "Scupper drain",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "In egyptian Architecture tomb of nobility was the?",
+    "choice1": "Pyramid",
+    "choice2": "Mastaba",
+    "choice3": "Stepped pyramid",
+    "choice4": "Ziggurat",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "Egyptian architecture is characterized by?",
+    "choice1": "Very ornate",
+    "choice2": "Highly decorative",
+    "choice3": "Monumental & trabeated",
+    "choice4": "Massiveness and ornamentation",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "Who is father of Prestress Concrete?",
+    "choice1": "Jorn Utzon",
+    "choice2": "Eugene Freyssinet",
+    "choice3": "Tadao Ando",
+    "choice4": "Santiaga Calatrava",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "The third phase of gothic architecture is?",
+    "choice1": "Flamboyant",
+    "choice2": "Lancet",
+    "choice3": "Consonant",
+    "choice4": "Rayonnant",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "What shape is the church plan of early christian churches?",
+    "choice1": "Greek cross",
+    "choice2": "Calvary cross",
+    "choice3": "Basilica",
+    "choice4": "Latin cross",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "What do you call the recess found in the dome to make the structure lighter?",
+    "choice1": "Pendentive",
+    "choice2": "Podium",
+    "choice3": "Oculus",
+    "choice4": "Coffers",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "Character of early christian arch is determined by the novel development of?",
+    "choice1": "Lintel and beam",
+    "choice2": "Stone vaults",
+    "choice3": "Timber trusses",
+    "choice4": "Arched vaults",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "How did romans create a structures with great spans?",
+    "choice1": "Large column and stone beams",
+    "choice2": "Use of stones pile together",
+    "choice3": "Stone corbel systems",
+    "choice4": "Use of arch",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "What do you call a type of support in the porch of maidens?",
+    "choice1": "Atlantes",
+    "choice2": "Gargoyle",
+    "choice3": "Caryatid",
+    "choice4": "Statue",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "Where did gothic architecture originate?",
+    "choice1": "Northern france",
+    "choice2": "Italy",
+    "choice3": "Spain",
+    "choice4": "Germany",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "In gothic church, what is the purpose of the flying buttress?",
+    "choice1": "Aesthetic purposes",
+    "choice2": "Support the high wall's decorative elements",
+    "choice3": "Aesthetic purposes",
+    "choice4": "None of the above",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  
+  {
+    "question": "Renaissance of 15th century in italy had its birth in?",
+    "choice1": "Florence",
+    "choice2": "Venice",
+    "choice3": "Spain",
+    "choice4": "Rome",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "In Mesopotamian arch., religion called for temples made of sun dried bricks is?",
+    "choice1": "Thakamus",
+    "choice2": "Ziggurats",
+    "choice3": "Megarons",
+    "choice4": "None of the above",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "What capital order was used in the parthenon?",
+    "choice1": "Tuscan",
+    "choice2": "Doric",
+    "choice3": "Corinthian",
+    "choice4": "Ionic",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "In architecture, what is the difference between a gargoyle and a grotesque?",
+    "choice1": "They are synonymous.",
+    "choice2": "A gargoyle smiles, while a grotesque frowns.",
+    "choice3": "None",
+    "choice4": "A gargoyle is humanlike, while a grotesque is animalistic.",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "Which famous building is famously 'guarded' by ravens?",
+    "choice1": "Edinburgh Castle",
+    "choice2": "Lincoln Cathedral",
+    "choice3": "Tower of London",
+    "choice4": "York Minster",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "A window above a window or door is called?",
+    "choice1": "Stile",
+    "choice2": "Sash",
+    "choice3": "Rabbet",
+    "choice4": "Transom",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is the Minimum thickness required for RCC slab to have a half hour fire rating according to NBC part-IV?",
+    "choice1": "75mm",
+    "choice2": "85mm",
+    "choice3": "55mm",
+    "choice4": "105mm",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "Who is the author of the book A Pattern Language?",
+    "choice1": "Ram Koolhaas",
+    "choice2": "Le Corbusier",
+    "choice3": "Robert Venturi",
+    "choice4": "Christopher Alexandra",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is the substance added to a plastic compound to improve its plastic property?",
+    "choice1": "Fillers",
+    "choice2": "Plasticizers",
+    "choice3": "Rasins",
+    "choice4": "Polymers",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is the hollow box sunk into the ground to facilitate the foundation work for bridge piers called?",
+    "choice1": "Grillage",
+    "choice2": "Well foundation",
+    "choice3": "Casson",
+    "choice4": "Coffer dam",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is the cage or box filled with rocks,concrete or soil for road building and landscapping called?",
+    "choice1": "Gabion wall",
+    "choice2": "Retaining Wall",
+    "choice3": "Kerb",
+    "choice4": "Folley",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "The dome of Florence cathedral built during 1420-34 was designed by?",
+    "choice1": "Filipo Brunelleschi",
+    "choice2": "Leon Batista Alberti",
+    "choice3": "Giuliano da Sangallo",
+    "choice4": "Giacomo da Vignola",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is the primary concept of work triangle in a kitchen based on?",
+    "choice1": "Privacy",
+    "choice2": "Proximity",
+    "choice3": "Hygiene",
+    "choice4": "Safety",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is the ampere of the switch that is required to fit a 1.5ton air conditioner?",
+    "choice1": "5A",
+    "choice2": "10A",
+    "choice3": "15A",
+    "choice4": "20A",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is the practice of clipping trees and shrubs into ornamental shapes called?",
+    "choice1": "Shrubbery",
+    "choice2": "Parterre",
+    "choice3": "Topiary",
+    "choice4": "Hedge",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "Shear walls are provided in tall buildings to with stand?",
+    "choice1": "Dead load",
+    "choice2": "Tangent load",
+    "choice3": "Lateral Load",
+    "choice4": "Live load",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "Which was the first iron bridge build?",
+    "choice1": "Coalbrookdale Bridge",
+    "choice2": "Cliffton Bridge",
+    "choice3": "Vizkaya Bridge",
+    "choice4": "Brooklyn Bridge",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "Which is the type of masonry that the alternate course of headers and strechers are distinctly seen?",
+    "choice1": "Rat Trap Bond",
+    "choice2": "Spanish Bond",
+    "choice3": "Flemish Bond",
+    "choice4": "English Bond",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "Which of these is not a Leonardo Da Vinci Painting?",
+    "choice1": "Mona Lisa",
+    "choice2": "The Last Supper",
+    "choice3": "The Old Guiltarist",
+    "choice4": "Adoration of the Magi",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "The term associated with Urban Design is",
+    "choice1": "Fore-Ground",
+    "choice2": "Figure-Ground",
+    "choice3": "Entablature",
+    "choice4": "Basement",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is the type of masonry which each stone is maid to look prominent called?",
+    "choice1": "Ashlar",
+    "choice2": "Rustication",
+    "choice3": "Coarse",
+    "choice4": "Random",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is the trap provided outside a building before connecting to a public sewerage ling called?",
+    "choice1": "Nahni trap",
+    "choice2": "intercepting trap",
+    "choice3": "Bottle trap",
+    "choice4": "Gully trap",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "identify the renewable energy commonly sourced at residence level",
+    "choice1": "Tidal",
+    "choice2": "Geo Thermal",
+    "choice3": "Solar",
+    "choice4": "Wind",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is the supernatant liquid discharge from a septic tank called?",
+    "choice1": "Scum",
+    "choice2": "Effluent",
+    "choice3": "Sludge",
+    "choice4": "Surface water",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "Which among these materials is not used for filtering water in Rainwater havesting system",
+    "choice1": "Filter paper",
+    "choice2": "Gravel",
+    "choice3": "Sand",
+    "choice4": "Charcoal",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is the minimmum size of the coarse aggregate used in RCC?",
+    "choice1": "20mm",
+    "choice2": "10mm",
+    "choice3": "15mm",
+    "choice4": "25mm",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "Buckling occurs in columns due to the action of?",
+    "choice1": "Axial-compression force",
+    "choice2": "Tension",
+    "choice3": "Shear force",
+    "choice4": "Lateral force",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "As of 2022, what is the tallest building in the world with a height of 828 metres?",
+    "choice1": "Shanghai Tower",
+    "choice2": "Tension",
+    "choice3": "China Zun",
+    "choice4": "Burj Khalifa",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "In which country can you visit the Giza Pyramid Complex?",
+    "choice1": "Algeria",
+    "choice2": "Morocco",
+    "choice3": "Spain",
+    "choice4": "Egypt",
+    "answer": 4,
+    "id": "Architecture"
+  },
+  {
+    "question": "The design of the Sydney Opera House in Australia is inspired by what?",
+    "choice1": "Seashells",
+    "choice2": "Glaciers",
+    "choice3": "Sails of boats",
+    "choice4": "None of the above",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  {
+    "question": "Which of the following palaces was not designed in the Rococo style?",
+    "choice1": "Sanssouci Palace",
+    "choice2": "Potala Palace",
+    "choice3": "Catherine Palace",
+    "choice4": "All of the above",
+    "answer": 2,
+    "id": "Architecture"
+  },
+  {
+    "question": "What is the most common nickname for the Eiffel Tower in Paris, France?",
+    "choice1": "The iron lady",
+    "choice2": "The shard",
+    "choice3": "The big pillar",
+    "choice4": "All of the above",
+    "answer": 1,
+    "id": "Architecture"
+  },
+  {
+    "question": "What kind of structure is the Washington Monument in the United States?",
+    "choice1": "Tracery",
+    "choice2": " Spire",
+    "choice3": "Obelisk",
+    "choice4": "None of the above",
+    "answer": 3,
+    "id": "Architecture"
+  },
+  
+  {
+    "question": "Zinc oxide is a?",
+    "choice1": "Basic Oxide",
+    "choice2": "Acidic Oxide",
+    "choice3": "Amphoteric Oxide",
+    "choice4": "Reactive Oxide",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "When sodium chloride and metallic sodium are each dissolved in water",
+    "choice1": "Both processes are exothermic",
+    "choice2": "Both processes are endothermic",
+    "choice3": "The dissolution of metallic sodium is endothermic",
+    "choice4": "The dissolution of metallic sodium is exothermic",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The periodic classification of the elements is an arrangement of elements in order of their",
+    "choice1": "Atomic Weights",
+    "choice2": "Isotopic Weights",
+    "choice3": "Atomic Masses",
+    "choice4": "Atomic Number",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The oxidation state of chlorine in potassium chlorate is",
+    "choice1": "+5",
+    "choice2": "+2",
+    "choice3": "+1",
+    "choice4": "+7",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "When heat is absorbed during a chemical reaction, the reaction is said to be",
+    "choice1": "Endothermic",
+    "choice2": "Exothermic",
+    "choice3": "Isothermal",
+    "choice4": "Thermostatic",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of the following metals cannot replace hydrogen from water or steam",
+    "choice1": "Magnesium",
+    "choice2": "Iron",
+    "choice3": "Copper",
+    "choice4": "Sodium",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  
+  {
+    "question": "The reaction between an organic acid and an alcohol in the presence of an acid catalyst is known as:",
+    "choice1": "Saponification",
+    "choice2": "Dehydration",
+    "choice3": "Esterification",
+    "choice4": "Hydrolysis",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The IUPAC names for the compounds CH3COOH and CH2=CH2 are respectively:",
+    "choice1": "Acetic acid and ethane",
+    "choice2": "Ethanoic acid and ethene",
+    "choice3": "Methanoic acid and ethylene",
+    "choice4": "Acetic acid and ethylene",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Brass and bronze are both metallic alloys. Which of the following constituents is common to both alloys?",
+    "choice1": "Tin",
+    "choice2": "Copper",
+    "choice3": "Led",
+    "choice4": "Aluminium",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of the following gases may not be dried with concentrated sulphuric acid?",
+    "choice1": "HCl",
+    "choice2": "NH3",
+    "choice3": "N2",
+    "choice4": "SO2",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "When ammonia and hydrogen ion bond together to form ammonium ion, the bond form is called",
+    "choice1": "Ionic bond",
+    "choice2": "Co-ordinate bond",
+    "choice3": "Electrovalent bont",
+    "choice4": "Covalent bond",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The nucleus of an atom contains",
+    "choice1": "Protons and neutrons",
+    "choice2": "Protons only",
+    "choice3": "Protons and electrons",
+    "choice4": "Protons and neutrons",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Hypochlorous acid is used as a bleach because",
+    "choice1": "It is an oxidising agent",
+    "choice2": "It is a weak acid",
+    "choice3": "It yields chlorine readily in pure water",
+    "choice4": "It is a reducing agent",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The most common type of chemical reaction which alkanes undergo is",
+    "choice1": "Substitution",
+    "choice2": "Addition",
+    "choice3": "Double decomposition",
+    "choice4": "Polymerisation",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which one of the following changes is physical?",
+    "choice1": "Adding sodium metal to water",
+    "choice2": "Adding iron filing to aerated water",
+    "choice3": "Burning the domestic gas (Utilgas) for cooking",
+    "choice4": "Cooling water to obtain ice",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "In titration involving sodium hydroxide solution and dilute hydrocloric acid, where would you place the base",
+    "choice1": "In the beaker",
+    "choice2": "In the conical flask",
+    "choice3": "In the burette",
+    "choice4": "In the standard flask",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of the following substanceswould you see as an indicator in the titation of sodium carbonate solution against hydrochloric acid?",
+    "choice1": "Litmus paper",
+    "choice2": "Phenolphthaline",
+    "choice3": "Methyl orange",
+    "choice4": "Universal indicator",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of the following substances are all made by the process of polymerization",
+    "choice1": "Soap and butane",
+    "choice2": "Margerine and nylon",
+    "choice3": "Nylon and soap",
+    "choice4": "Nylon and artificial rubber",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The oxidation state of manganese in potassium permanganate is?",
+    "choice1": "+7",
+    "choice2": "+5",
+    "choice3": "+3",
+    "choice4": "+2",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of the following statements is true? When the potassium atom forms its ion",
+    "choice1": "It gains one electron and becomes neutral",
+    "choice2": "It atomic number decreases",
+    "choice3": "It achieves electronic configuration of argon",
+    "choice4": "It loses one proton",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Starch can be converted to ethyl alcohol by",
+    "choice1": "Distillation",
+    "choice2": "Fermentation",
+    "choice3": "Cracking",
+    "choice4": "Isomerization",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Two metallic ions associated with hard water are",
+    "choice1": "Copper and zinc",
+    "choice2": "Magnesium and sliver",
+    "choice3": "Calcium and magnesium",
+    "choice4": "Sodium and lead",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "When dilute hydrochloric acid is added to iron(II) sulphide the gas evolved will",
+    "choice1": "Blacken lead acetate paper",
+    "choice2": "Turn moist red litnus paper blue",
+    "choice3": "Turn lime water milky",
+    "choice4": "Burn with a squeakly pop",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of the following silver halides is readily soluble in ammonium hydroxide",
+    "choice1": "AgCl",
+    "choice2": "Agl",
+    "choice3": "AgBr",
+    "choice4": "AgF",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The chemical reaction which takes place at the anode (positive electrode) in electrolysis is",
+    "choice1": "Oxidation",
+    "choice2": "Hydrolysis",
+    "choice3": "Dissociation",
+    "choice4": "Reduction",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The best way of collecting chlorine is",
+    "choice1": "By downward displacement of air",
+    "choice2": "By upward displacement of air",
+    "choice3": "Over water",
+    "choice4": "Under water",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Cellulose and starches can be classified as one of the following",
+    "choice1": "Sugars",
+    "choice2": "Sucrose",
+    "choice3": "Hydrocarbons",
+    "choice4": "Carbohydrates",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "If one of the following oxides is heated with hydrogen or carbon using burner, it is not reduced to the metal. Which one is it?",
+    "choice1": "Lead oxide",
+    "choice2": "Magnesium oxide",
+    "choice3": "Copper oxide",
+    "choice4": "Iron oxide",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of the following classes of organic compounds undergoes rapid oxidation with bromine water?",
+    "choice1": "Alcohols",
+    "choice2": "Alkanes",
+    "choice3": "Esters",
+    "choice4": "Alkanes",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "An element X has 127 neutrons and 82 electrons. Its atomic number is",
+    "choice1": "127",
+    "choice2": "82",
+    "choice3": "209",
+    "choice4": "45",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "When a bottle of Coca-Cola is opend, bubbles of gas evolve. The gas is",
+    "choice1": "Hydrogen",
+    "choice2": "Carbon monoxide",
+    "choice3": "Carbon dioxide",
+    "choice4": "Sulphur dioxide",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Methane is the member of the homologous series called",
+    "choice1": "Alkenes",
+    "choice2": "Esters",
+    "choice3": "Alkynes",
+    "choice4": "Alkanes",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "An example of a strong electrolyte is",
+    "choice1": "Ethyl acetate",
+    "choice2": "Ethanol",
+    "choice3": "Glucose",
+    "choice4": "Sodium formate",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The oxidation state of manganese in KMnO4 is",
+    "choice1": "+1",
+    "choice2": "+3",
+    "choice3": "+5",
+    "choice4": "+7",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "For iron to rust, there should be presence of",
+    "choice1": "Oxygen",
+    "choice2": "Carbondioxide",
+    "choice3": "Moisture",
+    "choice4": "Oxygen and moisture",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "If an organic compound decolorizes bromine water then the compound is",
+    "choice1": "Saturated",
+    "choice2": "Supersaturated",
+    "choice3": "Unsaturated",
+    "choice4": "A solid",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "When air is compressed",
+    "choice1": "Its density decreases",
+    "choice2": "It solidifies",
+    "choice3": "Its temperature decreases",
+    "choice4": "Its temperature increases",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of the following compounds and elements would sublime on exposure to the atmosphere?",
+    "choice1": "Ice",
+    "choice2": "Sulphur",
+    "choice3": "Phosphorus",
+    "choice4": "Iodine",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which one of the following metals is not normally extracted by chemical reduction because of its position in the electrochemical series",
+    "choice1": "Copper",
+    "choice2": "Iron",
+    "choice3": "Lead",
+    "choice4": "Potassium",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Water is poured over a white solid and a colourless netural gas is evolved which burns with a sooty flame. The white solid is",
+    "choice1": "Calcium",
+    "choice2": "Calcium oxide",
+    "choice3": "Calcium carbide",
+    "choice4": "Sodium peroxide",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Cotton is almost pure",
+    "choice1": "Cellulose",
+    "choice2": "Starch",
+    "choice3": "Mineral fibre",
+    "choice4": "Animal fibre",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The product formed at the cathode during the electrolysis of sodium chloride solution with carbon electrodes is",
+    "choice1": "Hydrogen",
+    "choice2": "Sodium",
+    "choice3": "Chlorine",
+    "choice4": "Sodium hydroxide",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Sodium carbonate crystals on exposure to dry atmosphere change to a white powder. This phenomenon is known as",
+    "choice1": "Efflorescence",
+    "choice2": "Deliquescence",
+    "choice3": "Hygroscopy",
+    "choice4": "Sublimation",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The alkanol obtained from the production of soap is",
+    "choice1": "Ethanol",
+    "choice2": "Glycerol",
+    "choice3": "Methanol",
+    "choice4": "Propanol",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The flame used by welders in cutting metals is",
+    "choice1": "Butane gas flame",
+    "choice2": "Oxy-acetylene flame",
+    "choice3": "Acetylene flame",
+    "choice4": "Oxygen flame",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "An element is electronegative if",
+    "choice1": "It has a tendency to exist in the gaseous form",
+    "choice2": "It has a tendency to gain electrons",
+    "choice3": "It ions dissolve readily in water",
+    "choice4": "It readily forms covalent bonds",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of these metals, Mg, Fe, Pb and Cu will dissolve in dilute HCl",
+    "choice1": "All the metals",
+    "choice2": "Mg and Fe only",
+    "choice3": "Mg, Fe and Cu",
+    "choice4": "Mg, Fe and Pb",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Stainless steel is an alloy of",
+    "choice1": "Carbon, iron and lead",
+    "choice2": "Carbon and iron only",
+    "choice3": "Carbon, iron and Chromium",
+    "choice4": "Carbon, iron and copper",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Increasing the pressure of a gas",
+    "choice1": "Lowers the average kinetic energy of the molecules",
+    "choice2": "Decreases the density of the gas",
+    "choice3": "Increases the density of the gas",
+    "choice4": "Decreases the temperature of the gas",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The cracking process is very important in the petroleum industry because it",
+    "choice1": "Gives purer products",
+    "choice2": "Yields more lubricants",
+    "choice3": "Yields more engine fuel",
+    "choice4": "Yields more asphalt",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Sodium chloride may be obtained frome brine by",
+    "choice1": "Titration",
+    "choice2": "Distillation",
+    "choice3": "Evaporation",
+    "choice4": "Sublimation",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which among the elements 1. Carbon, 2. Oxygen, 3. Copper, 4. Bromine, 5. Zinc, will not react with either water or steam?",
+    "choice1": "1 and 2",
+    "choice2": "3 and 4",
+    "choice3": "2 and 3",
+    "choice4": "1, 2 and 3",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Sulphur",
+    "choice1": "Forms two alkaline oxides",
+    "choice2": "Is spontaneously flammable",
+    "choice3": "Burns with a blue flame",
+    "choice4": "Conducts electricity in molten state",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "In the haber process for the manufacture of ammonia, finely divided iron is used as",
+    "choice1": "An ionizing agent",
+    "choice2": "A reducing agent",
+    "choice3": "A catalyst",
+    "choice4": "A dehydrating agent",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "When kerosene fraction from petrol is heated at high temperature, a lower boiling liquid is obtained. The process is knoen as",
+    "choice1": "Cracking",
+    "choice2": "Fractional distillation",
+    "choice3": "Refining",
+    "choice4": "Hydrogenation",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Alkaline hydrolysis of naturally occurring fats and oils yielda",
+    "choice1": "Soaps and glycerol",
+    "choice2": "Fats and acids",
+    "choice3": "Esters",
+    "choice4": "Margarine and butter",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Water is said to be heard if it",
+    "choice1": "Forms an insoluble scum with soap",
+    "choice2": "Easily forms ice",
+    "choice3": "Has to be warmed before sodium chloride dissolves in it",
+    "choice4": "Contains nitrates",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of the following conducts electricity?",
+    "choice1": "Graphite",
+    "choice2": "Sulphur",
+    "choice3": "Diamond",
+    "choice4": "Red Phosphorus",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of the following metals will displace iron from a solution of iron (II) tetraoxosulphate (Iv)",
+    "choice1": "Zinc",
+    "choice2": "Copper",
+    "choice3": "Mercury",
+    "choice4": "Gold",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Complete hydrogenation of ethyne yields",
+    "choice1": "Ethane",
+    "choice2": "Benzene",
+    "choice3": "Methane",
+    "choice4": "Propane",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of the following is used in the manufacture of bleaching powder",
+    "choice1": "Sulphure dioxide",
+    "choice2": "Hydrogen tetraoxosulphate (Iv)",
+    "choice3": "Hydrogen sulphide",
+    "choice4": "Chlorine",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of the following substances is the most abundant in the universe",
+    "choice1": "Carbon",
+    "choice2": "Water",
+    "choice3": "Oxygen",
+    "choice4": "Air",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The process involved in the conversion of an oil into margarine is known as",
+    "choice1": "Condensation",
+    "choice2": "Pyrolysis",
+    "choice3": "Dehydration",
+    "choice4": "Hydrogenation",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The movement of liquid molecules from the surface of the liquid to the gaseous phase is known as",
+    "choice1": "Brownian movement",
+    "choice2": "Liquefaction",
+    "choice3": "Dehydration",
+    "choice4": "Evaporation",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of the following substances is not a homogeneous mixture?",
+    "choice1": "Flood water",
+    "choice2": "Filtered sea water",
+    "choice3": "Wrirtng ink",
+    "choice4": "Soft drink",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "There is a large temperature interval between the melting point and boiling point of a metal because",
+    "choice1": "Metals conduct heat very rapidly",
+    "choice2": "Melting does not break the metallic bond but boiling does",
+    "choice3": "Metals have very high melting points",
+    "choice4": "The crystal lattice of metals is easily broken",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of the following is a measure of the average kinetic energy of the molecules of a substance?",
+    "choice1": "Volume",
+    "choice2": "Mass",
+    "choice3": "Temperature",
+    "choice4": "Pressure",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Four elements P,Q,R and S have 1,2,3 and 7 electrons in their outermost shells respectively. The element which is unlikely to be a metal is",
+    "choice1": "Q",
+    "choice2": "S",
+    "choice3": "R",
+    "choice4": "P",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Water for town supply is chlorinated to make it free from",
+    "choice1": "Bad odour",
+    "choice2": "Temporary hardness",
+    "choice3": "Bacteria",
+    "choice4": "Parmanent hardness",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Adding of an aqueous solution of barium chloride to the aqueous solution of a salt gives a white precipitate. The salt is likely to be a",
+    "choice1": "Nitrate",
+    "choice2": "Chloride",
+    "choice3": "Carbonate",
+    "choice4": "Sulphide",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Sodium hydroxide solution can be conveniently stored in a container made of",
+    "choice1": "Lead",
+    "choice2": "Zinc",
+    "choice3": "Copper",
+    "choice4": "Aluminium",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Duralumin consists of aluminium, copper,",
+    "choice1": "Zinc and gold",
+    "choice2": "Manganese and magnesium",
+    "choice3": "Lead and manganese",
+    "choice4": "Nickel and sliver",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of the following substances is a mixture",
+    "choice1": "Sulphur powder",
+    "choice2": "Bronze",
+    "choice3": "Distilled water",
+    "choice4": "Ethanol",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "As the difference in electronegativity between bonded atoms increases, polarity of the bond",
+    "choice1": "Decreases",
+    "choice2": "Increases",
+    "choice3": "Remains unchanged",
+    "choice4": "Reduces to zero",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which group of elements forms hydrides that are pyramidal in structure",
+    "choice1": "III",
+    "choice2": "V",
+    "choice3": "IV",
+    "choice4": "VI",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Water has a rather high boiling point despite its low molecular mass because of the presence of",
+    "choice1": "Covalent bonding",
+    "choice2": "Hydrogen bonding",
+    "choice3": "Ionic bonding",
+    "choice4": "Metallic bonding",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The shape of ammonia molecule is",
+    "choice1": "Octahedral",
+    "choice2": "Trigonal planar",
+    "choice3": "Square planar",
+    "choice4": "Tetrahedral",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The number of electrons in the valence shell of an element of atomic number 14 is",
+    "choice1": "4",
+    "choice2": "2",
+    "choice3": "1",
+    "choice4": "3",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of the following physical properties decreases down a group in the periodic table?",
+    "choice1": "Electronegativity",
+    "choice2": "Atomic radius",
+    "choice3": "Ionic radius",
+    "choice4": "Electropositivity",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "A solid that absorbs water from the atmosphere and forms an aqueous solution is",
+    "choice1": "Deliquescent",
+    "choice2": "Hydrophilic",
+    "choice3": "Effloresent",
+    "choice4": "Hygroscopic",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "A major effect of oil pollution in coastal waters is the",
+    "choice1": "Destruction of marine life",
+    "choice2": "Desalination of the water",
+    "choice3": "Increase in the acidity of the water",
+    "choice4": "Detoxification of the water",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Sodium chloride has no solubility product value because of its",
+    "choice1": "High solubility",
+    "choice2": "Saline nature",
+    "choice3": "Low solubility",
+    "choice4": "Insolubility",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of these metals cannot replace hydrogen from alkaline solutions?",
+    "choice1": "Aluminium",
+    "choice2": "Zinc",
+    "choice3": "Tin",
+    "choice4": "Iron",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Chromatography is used to seperate components of mixture which differ in their rates of",
+    "choice1": "Diffusion",
+    "choice2": "Migration",
+    "choice3": "Reaction",
+    "choice4": "Sedimentation",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of the following is an example of a chemical change?",
+    "choice1": "Dissolution of salt in water",
+    "choice2": "Rusting of iron",
+    "choice3": "Melting of ice",
+    "choice4": "Separating a mixture by distillation",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Sieving is a technique used to separate mixtures containing solid particles of",
+    "choice1": "Small sizes",
+    "choice2": "Large sizes",
+    "choice3": "Different sizes",
+    "choice4": "The same sizes",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Which of the following compounds is composed of Al, Si, O and H?",
+    "choice1": "Epsom salt",
+    "choice2": "Limestone",
+    "choice3": "Clay",
+    "choice4": "Urea",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The fundamental difference between the three states of matter is the",
+    "choice1": "Shape of their particles",
+    "choice2": "Number of particles in each state",
+    "choice3": "Shape of the container they occupy",
+    "choice4": "Degree of movement of their particles",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Potassium vapour burns with a",
+    "choice1": "Blue flame",
+    "choice2": "Brick-red flame",
+    "choice3": "Violet flame",
+    "choice4": "Golden-yellow flame",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Haematite is an ore of",
+    "choice1": "Zinc",
+    "choice2": "Lead",
+    "choice3": "Iron",
+    "choice4": "Copper",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The least easily oxidized of the metals below is",
+    "choice1": "Ca",
+    "choice2": "Na",
+    "choice3": "Zn",
+    "choice4": "Al",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The repeating unit in natural rubber is",
+    "choice1": "Alkyne",
+    "choice2": "Isoprene",
+    "choice3": "n-propene",
+    "choice4": "neoprene",
+    "answer": 4,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The chlorinated alkane often used industrially to remove grease is",
+    "choice1": "Tetrachloromethane",
+    "choice2": "Chloromethane",
+    "choice3": "Trichloromethane",
+    "choice4": "Dichloromethane",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The reaction of carbide with water gives",
+    "choice1": "Ethyne",
+    "choice2": "Ethene",
+    "choice3": "Ethane",
+    "choice4": "Ethanal",
+    "answer": 1,
+    "id": "Chemistry"
+  },
+  {
+    "question": "Alkanones are generally obtained by the oxidation of ",
+    "choice1": "Primary alkanols",
+    "choice2": "Secondary alkanols",
+    "choice3": "Tertiary alkanols",
+    "choice4": "Alkanoic acid",
+    "answer": 2,
+    "id": "Chemistry"
+  },
+  {
+    "question": "The property used in the industrial preparation of nitrogen and oxygen from air is",
+    "choice1": "Rate of difussion",
+    "choice2": "Density",
+    "choice3": "Boiling point",
+    "choice4": "solubility",
+    "answer": 3,
+    "id": "Chemistry"
+  },
+   {
+    "question": "To determine the weight of an object you could",
+    "choice1": "Use a beam balance",
+    "choice2": "Use a spring balance",
+    "choice3": "Find the force necessary to give it a certain acceleration",
+    "choice4": "Use any of these methods",
+    "answer": 4,
+    "id": "Physics"
+  },
+    {
+    "question": "The internationally agreed system of units (SI) for physical measurements are",
+    "choice1": "lb, ft, sec",
+    "choice2": "g, m, sec",
+    "choice3": "kg, m, sec",
+    "choice4": "cm, g, sec",
+    "answer": 3,
+    "id": "Physics"
+  },
+    {
+    "question": "The heat from the sun reaches the earth by the process of",
+    "choice1": "Insulation",
+    "choice2": "Conduction",
+    "choice3": "Convection",
+    "choice4": "Radiation",
+    "answer": 4,
+    "id": "Physics"
+  },
+    {
+    "question": "The amount of heat required to raise the temperature of a body is",
+    "choice1": "Thermal energy",
+    "choice2": "Thermal capacity",
+    "choice3": "Thermal conduction",
+    "choice4": "Specific heat capacity",
+    "answer": 2,
+    "id": "Physics"
+  },
+    {
+    "question": "Three 5 ohms resistors connected in parallel have a potential difference of 60V applied across the combination. The current in each resistor is",
+    "choice1": "12A",
+    "choice2": "4A",
+    "choice3": "36A",
+    "choice4": "24A",
+    "answer": 1,
+    "id": "Physics"
+  },
+    {
+    "question": "A magnet is moved through a coil of wire. The e.m.f produced in the wire depends on",
+    "choice1": "The number of turns in the coil",
+    "choice2": "The strength of the magnet",
+    "choice3": "The speed at which the magnet is moved",
+    "choice4": "All of the above",
+    "answer": 4,
+    "id": "Physics"
+  },
+    {
+    "question": "In order to convert a galvanometer into an ammeter",
+    "choice1": "A low resistance shunt is connected in parallel",
+    "choice2": "A low resistance shunt is connected in series",
+    "choice3": "A heigh resistance shunt is connected in parallel",
+    "choice4": "A heigh resistance shunt is connected in series",
+    "answer": 1,
+    "id": "Physics"
+  },
+    {
+    "question": "On an a.c generator, which of the following does  not apply?",
+    "choice1": "Commutator",
+    "choice2": "Field magnet",
+    "choice3": "Armature",
+    "choice4": "Slip rings",
+    "answer": 1,
+    "id": "Physics"
+  },
+    {
+    "question": "An electric charge could be transmitted through",
+    "choice1": "The human body, water and metals",
+    "choice2": "Wood, rubber and stone",
+    "choice3": "Paper, clay and plastic",
+    "choice4": "Glass, acid and cloth",
+    "answer": 1,
+    "id": "Physics"
+  },
+    {
+    "question": "The angular dispersion of a prism depends on",
+    "choice1": "The index of refraction only",
+    "choice2": "The prism angle",
+    "choice3": "The thickness of the prism",
+    "choice4": "The angle of incidence",
+    "answer": 1,
+    "id": "Physics"
+  },
+    {
+    "question": "For the correction of myopic defects in human eye, we require",
+    "choice1": "A convex lens",
+    "choice2": "A concave lens",
+    "choice3": "Combination of concave and convex lenses",
+    "choice4": "A prism",
+    "answer": 2,
+    "id": "Physics"
+  },
+    {
+    "question": "Of the following which is different from the others",
+    "choice1": "X-rays",
+    "choice2": "Cathode rays",
+    "choice3": "Gamma-rays",
+    "choice4": "Infrared rays",
+    "answer": 2,
+    "id": "Physics"
+  },
+    {
+    "question": "Which one of the following types of waves cannot travel through a vacuum?",
+    "choice1": "Radio waves",
+    "choice2": "Sound waves",
+    "choice3": "Light waves",
+    "choice4": "Infra-red waves",
+    "answer": 2,
+    "id": "Physics"
+  },
+    {
+    "question": "When the vapour of a substance is in equilibrium with its own liquid, it is said to be",
+    "choice1": "Gaseous",
+    "choice2": "Saturated",
+    "choice3": "Diffused",
+    "choice4": "Liquefield",
+    "answer": 2,
+    "id": "Physics"
+  },
+    {
+    "question": "Which of the following electromagnetic waves has the shortest wavelength?",
+    "choice1": "Radio waves",
+    "choice2": "X-rays",
+    "choice3": "Infra-red",
+    "choice4": "Blue light",
+    "answer": 2,
+    "id": "Physics"
+  },
+    {
+    "question": "Radio carrier waves are generated by causing electrons to oscillate rapidly in",
+    "choice1": "A microphone",
+    "choice2": "An antenna",
+    "choice3": "A transmitter",
+    "choice4": "Coaxial cables",
+    "answer": 3,
+    "id": "Physics"
+  },
+    {
+    "question": "Which of the following is true of an electric charge",
+    "choice1": "Positive charge means deficit electrons",
+    "choice2": "Nagative charge means excess of electrons",
+    "choice3": "Electric current means movement of electrons",
+    "choice4": "All of the above",
+    "answer": 4,
+    "id": "Physics"
+  },
+    {
+    "question": "Which of the following are true of atoms",
+    "choice1": "Atoms are indestructiable",
+    "choice2": "All atoms of a pure substance,or element are identical",
+    "choice3": "Atoms of different substance have different weights",
+    "choice4": "All of the above",
+    "answer": 3,
+    "id": "Physics"
+  },
+    {
+    "question": "Which of the following physical quantites is not a vector",
+    "choice1": "Velocity",
+    "choice2": "Force",
+    "choice3": "Work",
+    "choice4": "Electric field intensity",
+    "answer": 3,
+    "id": "Physics"
+  },
+    {
+    "question": "The motion of the moving skin of a talking drum can rightly be described as",
+    "choice1": "Translational",
+    "choice2": "Random",
+    "choice3": "Oscillatory",
+    "choice4": "Transitional",
+    "answer": 3,
+    "id": "Physics"
+  },
+    {
+    "question": "Which of the following does not cause a reduction of the surface tension of water?",
+    "choice1": "Alcohol",
+    "choice2": "Detergent",
+    "choice3": "Camphor",
+    "choice4": "Grease",
+    "answer": 4,
+    "id": "Physics"
+  },
+    {
+    "question": "The water at the bottom of a waterfall is slightly warmer than at the top because part of the",
+    "choice1": "Potential energy raises the water temperature",
+    "choice2": "Water absorb latent heat from the atmosphere",
+    "choice3": "Dropping mass of water increases the heat capacity",
+    "choice4": "Kinetic energy is changed into internal energy",
+    "answer": 4,
+    "id": "Physics"
+  },
+    {
+    "question": "Which of the following statements is not true of the image in a plane mirror? The image is",
+    "choice1": "The same as the object",
+    "choice2": "Laterally inverted",
+    "choice3": "Virtual",
+    "choice4": "Magnified",
+    "answer": 4,
+    "id": "Physics"
+  },
+    {
+    "question": "Any line or section through an advancing wave in which all the particles are in the particles are in the same phase is called",
+    "choice1": "Wave crest",
+    "choice2": "Wave trough",
+    "choice3": "Fave front",
+    "choice4": "Wave length",
+    "answer": 4,
+    "id": "Physics"
+  },
+    {
+    "question": "Which of the following statements about sound is not true",
+    "choice1": "Sound is a logitudinal wave",
+    "choice2": "Sound travels at the same speed in all materials",
+    "choice3": "Sound can be reflected and refracted like light",
+    "choice4": "Sound moves faster in a steel wire than in air",
+    "answer": 2,
+    "id": "Physics"
+  },
+    {
+    "question": "In sunlight, a blue flower looks blue because we see the flower by the light it",
+    "choice1": "Disperses",
+    "choice2": "Reflects",
+    "choice3": "Absorbs",
+    "choice4": "Refracts",
+    "answer": 2,
+    "id": "Physics"
+  },
+    {
+    "question": "Which of the following elements is the best absorber of X-rays",
+    "choice1": "Hydrogen",
+    "choice2": "Lead",
+    "choice3": "Calcium",
+    "choice4": "Copper",
+    "answer": 2,
+    "id": "Physics"
+  },
+    {
+    "question": "According to Ohm's law, the ratio V/I is constant for",
+    "choice1": "Silver",
+    "choice2": "An electrolyte",
+    "choice3": "A diode",
+    "choice4": "Copper",
+    "answer": 2,
+    "id": "Physics"
+  },
+    {
+    "question": "The following types of waves are all transverse except",
+    "choice1": "Light waves",
+    "choice2": "Radio waves",
+    "choice3": "Sound waves",
+    "choice4": "Surface waves on water",
+    "answer": 3,
+    "id": "Physics"
+  },
+    {
+    "question": "If a source of sound is moving, a stationary listener will hear a sound of different frequency. This is called",
+    "choice1": "Resonance",
+    "choice2": "Ultra sound",
+    "choice3": "Doppler effect",
+    "choice4": "Diffration of sound",
+    "answer": 3,
+    "id": "Physics"
+  },
+    {
+    "question": "The principle of transmissibility of pressure in a fluid at rest in all directions is known as",
+    "choice1": "Archimedes principle",
+    "choice2": "Flotation principle",
+    "choice3": "Pascal's law",
+    "choice4": "Newton's law",
+    "answer": 3,
+    "id": "Physics"
+  },
+    {
+    "question": "Which of the following is not an effect that can be produced by electric current",
+    "choice1": "Heat",
+    "choice2": "Light",
+    "choice3": "Sound",
+    "choice4": "None of the above",
+    "answer": 4,
+    "id": "Physics"
+  },
+    {
+    "question": "Heat may be transferred by conduction, convection and radiation. By which of these method does heat travel through a vaccum?",
+    "choice1": "Conduction only",
+    "choice2": "Convection only",
+    "choice3": "Radiation only",
+    "choice4": "All the three methods",
+    "answer": 3,
+    "id": "Physics"
+  },
+    {
+    "question": "When a ray of light passes from water to glass, it is",
+    "choice1": "Bent towards the normal",
+    "choice2": "Bent away from the normal",
+    "choice3": "Totally internally reflected",
+    "choice4": "Absorbed by the glass",
+    "answer": 1,
+    "id": "Physics"
+  }
+   , {
+    "question": "Whch type of radiation does not originate within the nucleus?",
+    "choice1": "Beta",
+    "choice2": "Alpha",
+    "choice3": "X-ray",
+    "choice4": "Gamma",
+    "answer": 1,
+    "id": "Physics"
+  }
+   , {
+    "question": "Which of the following machines does not apply the lever principle?",
+    "choice1": "Single moving pulley",
+    "choice2": "Claw hammer",
+    "choice3": "Wheel barrow",
+    "choice4": "Sugar tongs",
+    "answer": 1,
+    "id": "Physics"
+  }
+   , {
+    "question": "The accurate measurement of the relative density of a substance in powder  or granular form can be done using a beam balance and",
+    "choice1": "Eureka can",
+    "choice2": "Pipette",
+    "choice3": "Burette",
+    "choice4": "Density bottle",
+    "answer": 1,
+    "id": "Physics"
+  }
+   , {
+    "question": "Which of the following statements is not true? Thermostats are used to control the temperature of",
+    "choice1": "Pressure cooker",
+    "choice2": "Laundry iron",
+    "choice3": "Hot water storage tank",
+    "choice4": "Heated apartment",
+    "answer": 1,
+    "id": "Physics"
+  }
+   , {
+    "question": "The combination of sound waves with different frequencies is known as",
+    "choice1": "Interference",
+    "choice2": "Diffraction",
+    "choice3": "Resonance",
+    "choice4": "Superposition",
+    "answer": 4,
+    "id": "Physics"
+  }
+   , {
+    "question": "The area under a force-distance graph represents",
+    "choice1": "Acceleration",
+    "choice2": "Velocity",
+    "choice3": "Power",
+    "choice4": "Work",
+    "answer": 4,
+    "id": "Physics"
+  }
+   , {
+    "question": "A hot metal ball is suspended in the open air. As it cools it loses heat by",
+    "choice1": "Conduction and convection",
+    "choice2": "Convection only",
+    "choice3": "Radiation only",
+    "choice4": "Conduction only",
+    "answer": 4,
+    "id": "Physics"
+  }
+   , {
+    "question": "The point beyond which a stretched spring does not return to its original length is called",
+    "choice1": "Breaking point",
+    "choice2": "Elasticity point",
+    "choice3": "Spring point",
+    "choice4": "Elastic limit",
+    "answer": 4,
+    "id": "Physics"
+  }
+   , {
+    "question": "Which of the following is not a vector quantity",
+    "choice1": "Force",
+    "choice2": "Altitude",
+    "choice3": "Weight",
+    "choice4": "Displacement",
+    "answer": 2,
+    "id": "Physics"
+  }
+   , {
+    "question": "The force with which an object is attracted to the earth is called",
+    "choice1": "Acceleration",
+    "choice2": "Mass",
+    "choice3": "Gravity",
+    "choice4": "Weight",
+    "answer": 3,
+    "id": "Physics"
+  }
+   , {
+    "question": "Ripples on water are similar to light waves in that they both",
+    "choice1": "Have the same wavelength",
+    "choice2": "Are longitudinal",
+    "choice3": "Cannot be reflected",
+    "choice4": "Travel at the same speed",
+    "answer": 2,
+    "id": "Physics"
+  }
+   , {
+    "question": "A piece of wood is floating on water. The forces acting on the wood are",
+    "choice1": "Upthrust and reaction",
+    "choice2": "Weight and reaction",
+    "choice3": "Weight and upthrust",
+    "choice4": "Upthrust and viscosity",
+    "answer": 3,
+    "id": "Physics"
+  }
+   , {
+    "question": "Longitudinal waves do not exhibit",
+    "choice1": "Refraction",
+    "choice2": "Reflection",
+    "choice3": "Diffraction",
+    "choice4": "Polarization",
+    "answer": 4,
+    "id": "Physics"
+  }
+   , {
+    "question": "The unit of quantity of electricity is called",
+    "choice1": "Ampere",
+    "choice2": "Volt",
+    "choice3": "Coulomb",
+    "choice4": "Ammeter",
+    "answer": 3,
+    "id": "Physics"
+  }
+   , {
+    "question": "The resistance of a wire depends on",
+    "choice1": "The length of the wire",
+    "choice2": "The diameter of the wire",
+    "choice3": "The temperature of the wire",
+    "choice4": "All of the above",
+    "answer": 1,
+    "id": "Physics"
+  }
+   , {
+    "question": "If a solid changes directly from solid to gas when heat is applied, the process is called",
+    "choice1": "Vaporization",
+    "choice2": "Evaporation",
+    "choice3": "Sublimation",
+    "choice4": "Ionization",
+    "answer": 3,
+    "id": "Physics"
+  }
+   , {
+    "question": "Which of the following is not a fundamental S.I. unit?",
+    "choice1": "Meter",
+    "choice2": "Ampere",
+    "choice3": "Kelvin",
+    "choice4": "Radian",
+    "answer": 2,
+    "id": "Physics"
+  }
+   , {
+    "question": "Which of the following is not a force",
+    "choice1": "Friction",
+    "choice2": "Tension",
+    "choice3": "Upthrust",
+    "choice4": "Impulse",
+    "answer": 4,
+    "id": "Physics"
+  }
+   , {
+    "question": "Which of the following phenomena cannot be explained by the molecular theory of matter",
+    "choice1": "Expansion",
+    "choice2": "Conduction",
+    "choice3": "Convection",
+    "choice4": "Radiation",
+    "answer": 4,
+    "id": "Physics"
+  }
+   , {
+    "question": "Which of the following represents the correct precision if the length of a piece of wire is measured with a meterrule?",
+    "choice1": "35mm",
+    "choice2": "35.0mm",
+    "choice3": "35.00mm",
+    "choice4": "35.01mm",
+    "answer": 1,
+    "id": "Physics"
+  }
+   , {
+    "question": "Which of the following is a derived unit?",
+    "choice1": "Kilogramme",
+    "choice2": "Meter",
+    "choice3": "Kelvin",
+    "choice4": "Newton",
+    "answer": 4,
+    "id": "Physics"
+  }
+   , {
+    "question": "Which of the following assumptions is made in a simple pendulum experiments? The",
+    "choice1": "Suspending string is inextensible",
+    "choice2": "Bob has a finite size",
+    "choice3": "Bob has a definite mass",
+    "choice4": "Initial angle of ocillation must be large",
+    "answer": 1,
+    "id": "Physics"
+  }
+   , {
+    "question": "Which of the following is common to evaporation and boiling? They",
+    "choice1": "Take place at any temperature",
+    "choice2": "Are surface phenomena",
+    "choice3": "Involve change of state",
+    "choice4": "Take place at a definite pressure",
+    "answer": 3,
+    "id": "Physics"
+  }
+   , {
+    "question": "Mercury is suitable as a barometric fluid because it",
+    "choice1": "Expands uniformly",
+    "choice2": "Is Opaque",
+    "choice3": "Is several times denser than water",
+    "choice4": "Is a good conductor of heat",
+    "answer": 3,
+    "id": "Physics"
+  }
+   , {
+    "question": "Which of the following properties makes metals ideal for cooking utensils?",
+    "choice1": "High coefficient of expansion",
+    "choice2": "Good conduction of heat",
+    "choice3": "Low specific heat capacity",
+    "choice4": "Poor radiation of heat",
+    "answer": 2,
+    "id": "Physics"
+  }
+   , {
+    "question": "The vibration of an air column produces the sound in the",
+    "choice1": "Pino",
+    "choice2": "Guitar",
+    "choice3": "Flute",
+    "choice4": "School handbell",
+    "answer": 3,
+    "id": "Physics"
+  }
+   , {
+    "question": "Which of the following is not part of a d.c. electric motor?",
+    "choice1": "Field-magnet",
+    "choice2": "Armature",
+    "choice3": "Commutator",
+    "choice4": "Transformer",
+    "answer": 4,
+    "id": "Physics"
+  }
+   , {
+    "question": "Which of the following is not stored by a dry Leclanche cell?",
+    "choice1": "Electrical power",
+    "choice2": "Kinetic energy",
+    "choice3": "Electric Current",
+    "choice4": "Chemical energy",
+    "answer": 4,
+    "id": "Physics"
+  }
+   , {
+    "question": "Shadows and eclipses result from the",
+    "choice1": "Refraction of light",
+    "choice2": "Rectilinear propagation of light",
+    "choice3": "Defraction of light",
+    "choice4": "Refection of light",
+    "answer": 2,
+    "id": "Physics"
+  }
+   , {
+    "question": "What is the least possible error in using a rule graduated in centimeters",
+    "choice1": "0.1cm",
+    "choice2": "0.5cm",
+    "choice3": "1.0cm",
+    "choice4": "2.0cm",
+    "answer": 1,
+    "id": "Physics"
+  }
+   , {
+    "question": "Which of the following characteristics of a wave is used in the measurement of the depth of the sea?",
+    "choice1": "Diffraction",
+    "choice2": "Interference",
+    "choice3": "Refraction",
+    "choice4": "Reflection",
+    "answer": 4,
+    "id": "Physics"
+  }
+   , {
+    "question": "Which of the following quantities has the same unit as watt?",
+    "choice1": "Force x time",
+    "choice2": "Force x distance",
+    "choice3": "Force x acceleration",
+    "choice4": "Force x velocity",
+    "answer": 4,
+    "id": "Physics"
+  },
+   {
+"question": "What is the SI unit of electric charge?",
+"choice1": "Ampere",
+"choice2": "Coulomb",
+"choice3": "Volt",
+"choice4": "Ohm",
+"answer": 2,
+"id": "Physics"
+},
+
+{
+"question": "Which law states that for every action, there is an equal and opposite reaction?",
+"choice1": "Newton's First Law of Motion",
+"choice2": "Newton's Second Law of Motion",
+"choice3": "Newton's Third Law of Motion",
+"choice4": "Law of Gravitation",
+"answer": 3,
+"id": "Physics"
+},
+
+{
+"question": "What is the speed of light in a vacuum?",
+"choice1": "299,792,458 meters per second",
+"choice2": "186,282 miles per hour",
+"choice3": "3.00 x 10^8 kilometers per second",
+"choice4": "All of the above",
+"answer": 4,
+"id": "Physics"
+}
+,
+{
+"question": "What is the SI unit of force?",
+"choice1": "Newton",
+"choice2": "Joule",
+"choice3": "Pascal",
+"choice4": "Watt",
+"answer": 1,
+"id": "Physics"
+},
+
+{
+"question": "In which direction does electric current flow?",
+"choice1": "From positive to negative",
+"choice2": "From negative to positive",
+"choice3": "In both directions simultaneously",
+"choice4": "It depends on the circuit",
+"answer": 2,
+"id": "Physics"
+},
+
+{
+"question": "What is the law of conservation of energy?",
+"choice1": "Energy cannot be created or destroyed, only converted from one form to another",
+"choice2": "Energy is constantly decreasing in the universe",
+"choice3": "Energy can be created and destroyed at will",
+"choice4": "Energy is always in the form of heat",
+"answer": 1,
+"id": "Physics"
+},
+
+{
+"question": "Which gas is most commonly used in balloons to make them float?",
+"choice1": "Oxygen",
+"choice2": "Carbon dioxide",
+"choice3": "Helium",
+"choice4": "Nitrogen",
+"answer": 3,
+"id": "Physics"
+},
+
+{
+"question": "What is the unit of resistance in an electrical circuit?",
+"choice1": "Ampere",
+"choice2": "Ohm",
+"choice3": "Volt",
+"choice4": "Watt",
+"answer": 2,
+"id": "Physics"
+},
+
+{
+"question": "What is the force that opposes the motion of objects through a fluid (e.g., air or water)?",
+"choice1": "Gravity",
+"choice2": "Inertia",
+"choice3": "Friction",
+"choice4": "Momentum",
+"answer": 3,
+"id": "Physics"
+},
+
+{
+"question": "What is the acceleration due to gravity on the surface of Earth?",
+"choice1": "9.8 meters per second squared",
+"choice2": "1 meter per second squared",
+"choice3": "10 meters per second squared",
+"choice4": "5 meters per second squared",
+"answer": 1,
+"id": "Physics"
+},
+
+{
+"question": "What is the SI unit of power?",
+"choice1": "Watt",
+"choice2": "Joule",
+"choice3": "Volt",
+"choice4": "Ampere",
+"answer": 1,
+"id": "Physics"
+},
+
+{
+"question": "Which color of light has the shortest wavelength?",
+"choice1": "Red",
+"choice2": "Green",
+"choice3": "Blue",
+"choice4": "Yellow",
+"answer": 3,
+"id": "Physics"
+},
+
+{
+"question": "What is the law that describes the relationship between the pressure and volume of a gas at constant temperature?",
+"choice1": "Boyle's Law",
+"choice2": "Charles's Law",
+"choice3": "Gay-Lussac's Law",
+"choice4": "Avogadro's Law",
+"answer": 1,
+"id": "Physics"
+},
+
+{
+"question": "Which type of wave does not require a medium to travel through?",
+"choice1": "Sound wave",
+"choice2": "Light wave",
+"choice3": "Water wave",
+"choice4": "Radio wave",
+"answer": 4,
+"id": "Physics"
+},
+
+{
+"question": "What is the process by which a substance changes from a gas to a liquid?",
+"choice1": "Vaporization",
+"choice2": "Condensation",
+"choice3": "Sublimation",
+"choice4": "Fusion",
+"answer": 2,
+"id": "Physics"
+},
+
+{
+"question": "Which law of thermodynamics states that energy cannot be created or destroyed, only transferred or converted from one form to another?",
+"choice1": "First Law of Thermodynamics",
+"choice2": "Second Law of Thermodynamics",
+"choice3": "Third Law of Thermodynamics",
+"choice4": "Zeroth Law of Thermodynamics",
+"answer": 1,
+"id": "Physics"
+},
+
+{
+"question": "What is the formula for calculating kinetic energy?",
+"choice1": "KE = mgh",
+"choice2": "KE = 1/2mv^2",
+"choice3": "KE = Fd",
+"choice4": "KE = W/Q",
+"answer": 2,
+"id": "Physics"
+},
+
+{
+"question": "What is the phenomenon where a wave bends as it passes through a medium with a different speed?",
+"choice1": "Diffraction",
+"choice2": "Reflection",
+"choice3": "Refraction",
+"choice4": "Dispersion",
+"answer": 3,
+"id": "Physics"
+},
+
+{
+"question": "What is the unit of capacitance?",
+"choice1": "Ampere",
+"choice2": "Farad",
+"choice3": "Ohm",
+"choice4": "Coulomb",
+"answer": 2,
+"id": "Physics"
+},
+{
+    "question": "What is the capital of France?",
+    "choice1": "London",
+    "choice2": "Berlin",
+    "choice3": "Madrid",
+    "choice4": "Paris",
+    "answer": 4,
+    "id": "Geography"
+  },
+  {
+    "question": "Which river is the longest in the world?",
+    "choice1": "Amazon River",
+    "choice2": "Nile River",
+    "choice3": "Yangtze River",
+    "choice4": "Mississippi River",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "choice1": "China",
+    "choice2": "Japan",
+    "choice3": "Australia",
+    "choice4": "India",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "Which mountain range runs along the border between India and Nepal?",
+    "choice1": "Rocky Mountains",
+    "choice2": "Andes Mountains",
+    "choice3": "Himalayas",
+    "choice4": "Alps",
+    "answer": 3,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "choice1": "Sahara Desert",
+    "choice2": "Arabian Desert",
+    "choice3": "Gobi Desert",
+    "choice4": "Antarctica",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "Which continent is the least populous?",
+    "choice1": "Asia",
+    "choice2": "Africa",
+    "choice3": "Australia",
+    "choice4": "Antarctica",
+    "answer": 4,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the longest river in the United States?",
+    "choice1": "Mississippi River",
+    "choice2": "Colorado River",
+    "choice3": "Columbia River",
+    "choice4": "Missouri River",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "Which country is known as the Land of a Thousand Lakes?",
+    "choice1": "Sweden",
+    "choice2": "Canada",
+    "choice3": "Finland",
+    "choice4": "Norway",
+    "answer": 3,
+    "id": "Geography"
+  },
+  {
+    "question": "Which African country is known as the Pearl of Africa?",
+    "choice1": "Kenya",
+    "choice2": "Nigeria",
+    "choice3": "Uganda",
+    "choice4": "Egypt",
+    "answer": 3,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the largest country by land area in South America?",
+    "choice1": "Argentina",
+    "choice2": "Brazil",
+    "choice3": "Colombia",
+    "choice4": "Peru",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "Which ocean is the largest in terms of both area and volume?",
+    "choice1": "Atlantic Ocean",
+    "choice2": "Indian Ocean",
+    "choice3": "Arctic Ocean",
+    "choice4": "Pacific Ocean",
+    "answer": 4,
+    "id": "Geography"
+  },
+  {
+    "question": "Which U.S. state is known as the Sunshine State?",
+    "choice1": "California",
+    "choice2": "Texas",
+    "choice3": "Florida",
+    "choice4": "Arizona",
+    "answer": 3,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the highest mountain in Africa?",
+    "choice1": "Mount Everest",
+    "choice2": "Mount Kilimanjaro",
+    "choice3": "Mount McKinley",
+    "choice4": "Mount Fuji",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "Which river is known as the River of Sorrows?",
+    "choice1": "Nile River",
+    "choice2": "Yangtze River",
+    "choice3": "Amazon River",
+    "choice4": "Yellow River",
+    "answer": 4,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the largest island in the Mediterranean Sea?",
+    "choice1": "Sicily",
+    "choice2": "Cyprus",
+    "choice3": "Sardinia",
+    "choice4": "Crete",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "Which country is known as the Land of the Midnight Sun?",
+    "choice1": "Sweden",
+    "choice2": "Canada",
+    "choice3": "Norway",
+    "choice4": "Russia",
+    "answer": 3,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the smallest country in the world by land area?",
+    "choice1": "Monaco",
+    "choice2": "Vatican City",
+    "choice3": "San Marino",
+    "choice4": "Liechtenstein",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "Which ocean is the saltiest?",
+    "choice1": "Atlantic Ocean",
+    "choice2": "Indian Ocean",
+    "choice3": "Arctic Ocean",
+    "choice4": "Pacific Ocean",
+    "answer": 4,
+    "id": "Geography"
+  },
+  {
+    "question": "Which country is known as the Land of the Long White Cloud?",
+    "choice1": "Canada",
+    "choice2": "Australia",
+    "choice3": "New Zealand",
+    "choice4": "Ireland",
+    "answer": 3,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the largest lake in Africa?",
+    "choice1": "Lake Tanganyika",
+    "choice2": "Lake Victoria",
+    "choice3": "Lake Malawi",
+    "choice4": "Lake Chad",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "Which country is known as the Land of Fire and Ice?",
+    "choice1": "Greenland",
+    "choice2": "Iceland",
+    "choice3": "Canada",
+    "choice4": "Russia",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the largest city by population in India?",
+    "choice1": "Mumbai",
+    "choice2": "Delhi",
+    "choice3": "Kolkata",
+    "choice4": "Chennai",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the highest mountain in Europe?",
+    "choice1": "Mount Elbrus",
+    "choice2": "Mont Blanc",
+    "choice3": "Mount Etna",
+    "choice4": "Mount Olympus",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "Which country is known as the Land of a Thousand Islands?",
+    "choice1": "Greece",
+    "choice2": "Indonesia",
+    "choice3": "Philippines",
+    "choice4": "Japan",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "choice1": "Buenos Aires",
+    "choice2": "Rio de Janeiro",
+    "choice3": "Brasília",
+    "choice4": "São Paulo",
+    "answer": 3,
+    "id": "Geography"
+  },
+  {
+    "question": "Which African country is known as the Land of a Thousand Hills?",
+    "choice1": "Kenya",
+    "choice2": "Rwanda",
+    "choice3": "Uganda",
+    "choice4": "Tanzania",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the largest island in the world by land area?",
+    "choice1": "Madagascar",
+    "choice2": "Greenland",
+    "choice3": "Borneo",
+    "choice4": "Sumatra",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "Which river flows through Cairo, the capital of Egypt?",
+    "choice1": "Nile River",
+    "choice2": "Tigris River",
+    "choice3": "Euphrates River",
+    "choice4": "Jordan River",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "choice1": "Buenos Aires",
+    "choice2": "Santiago",
+    "choice3": "Lima",
+    "choice4": "Montevideo",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "choice1": "St. Petersburg",
+    "choice2": "Kiev",
+    "choice3": "Moscow",
+    "choice4": "Minsk",
+    "answer": 3,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the largest lake in Asia?",
+    "choice1": "Lake Baikal",
+    "choice2": "Lake Ladoga",
+    "choice3": "Caspian Sea",
+    "choice4": "Aral Sea",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "choice1": "Johannesburg",
+    "choice2": "Cape Town",
+    "choice3": "Durban",
+    "choice4": "Pretoria",
+    "answer": 4,
+    "id": "Geography"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "choice1": "China",
+    "choice2": "Japan",
+    "choice3": "Australia",
+    "choice4": "India",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the largest island in the Mediterranean Sea?",
+    "choice1": "Sicily",
+    "choice2": "Cyprus",
+    "choice3": "Sardinia",
+    "choice4": "Crete",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the largest lake in Africa?",
+    "choice1": "Lake Tanganyika",
+    "choice2": "Lake Victoria",
+    "choice3": "Lake Malawi",
+    "choice4": "Lake Chad",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "Which river flows through Cairo, the capital of Egypt?",
+    "choice1": "Nile River",
+    "choice2": "Tigris River",
+    "choice3": "Euphrates River",
+    "choice4": "Jordan River",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "choice1": "Buenos Aires",
+    "choice2": "Rio de Janeiro",
+    "choice3": "Brasília",
+    "choice4": "São Paulo",
+    "answer": 3,
+    "id": "Geography"
+  },
+  {
+    "question": "Which African country is known as the Land of a Thousand Hills?",
+    "choice1": "Kenya",
+    "choice2": "Rwanda",
+    "choice3": "Uganda",
+    "choice4": "Tanzania",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the largest island in the world by land area?",
+    "choice1": "Madagascar",
+    "choice2": "Greenland",
+    "choice3": "Borneo",
+    "choice4": "Sumatra",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "Which river flows through Cairo, the capital of Egypt?",
+    "choice1": "Nile River",
+    "choice2": "Tigris River",
+    "choice3": "Euphrates River",
+    "choice4": "Jordan River",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "choice1": "Buenos Aires",
+    "choice2": "Santiago",
+    "choice3": "Lima",
+    "choice4": "Montevideo",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "choice1": "St. Petersburg",
+    "choice2": "Kiev",
+    "choice3": "Moscow",
+    "choice4": "Minsk",
+    "answer": 3,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the largest lake in Asia?",
+    "choice1": "Lake Baikal",
+    "choice2": "Lake Ladoga",
+    "choice3": "Caspian Sea",
+    "choice4": "Aral Sea",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "choice1": "Johannesburg",
+    "choice2": "Cape Town",
+    "choice3": "Durban",
+    "choice4": "Pretoria",
+    "answer": 4,
+    "id": "Geography"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "choice1": "China",
+    "choice2": "Japan",
+    "choice3": "Australia",
+    "choice4": "India",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the largest island in the Mediterranean Sea?",
+    "choice1": "Sicily",
+    "choice2": "Cyprus",
+    "choice3": "Sardinia",
+    "choice4": "Crete",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the smallest country in the world by land area?",
+    "choice1": "Monaco",
+    "choice2": "Vatican City",
+    "choice3": "San Marino",
+    "choice4": "Liechtenstein",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "Which ocean is the saltiest?",
+    "choice1": "Atlantic Ocean",
+    "choice2": "Indian Ocean",
+    "choice3": "Arctic Ocean",
+    "choice4": "Pacific Ocean",
+    "answer": 4,
+    "id": "Geography"
+  },
+  {
+    "question": "Which country is known as the Land of the Long White Cloud?",
+    "choice1": "Canada",
+    "choice2": "Australia",
+    "choice3": "New Zealand",
+    "choice4": "Ireland",
+    "answer": 3,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the largest lake in Africa?",
+    "choice1": "Lake Tanganyika",
+    "choice2": "Lake Victoria",
+    "choice3": "Lake Malawi",
+    "choice4": "Lake Chad",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "Which country is known as the Land of Fire and Ice?",
+    "choice1": "Greenland",
+    "choice2": "Iceland",
+    "choice3": "Canada",
+    "choice4": "Russia",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the largest city by population in India?",
+    "choice1": "Mumbai",
+    "choice2": "Delhi",
+    "choice3": "Kolkata",
+    "choice4": "Chennai",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of France?",
+    "choice1": "Madrid",
+    "choice2": "Berlin",
+    "choice3": "Rome",
+    "choice4": "Paris",
+    "answer": 4,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "choice1": "Cairo",
+    "choice2": "Alexandria",
+    "choice3": "Giza",
+    "choice4": "Luxor",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "choice1": "Tokyo",
+    "choice2": "Osaka",
+    "choice3": "Kyoto",
+    "choice4": "Hiroshima",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "choice1": "Munich",
+    "choice2": "Berlin",
+    "choice3": "Hamburg",
+    "choice4": "Frankfurt",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "choice1": "Milan",
+    "choice2": "Naples",
+    "choice3": "Venice",
+    "choice4": "Rome",
+    "answer": 4,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "choice1": "Buenos Aires",
+    "choice2": "Rio de Janeiro",
+    "choice3": "Brasília",
+    "choice4": "São Paulo",
+    "answer": 3,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of India?",
+    "choice1": "New Delhi",
+    "choice2": "Mumbai",
+    "choice3": "Kolkata",
+    "choice4": "Chennai",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "choice1": "St. Petersburg",
+    "choice2": "Kiev",
+    "choice3": "Moscow",
+    "choice4": "Minsk",
+    "answer": 3,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of China?",
+    "choice1": "Beijing",
+    "choice2": "Shanghai",
+    "choice3": "Hong Kong",
+    "choice4": "Guangzhou",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "choice1": "Vancouver",
+    "choice2": "Toronto",
+    "choice3": "Montreal",
+    "choice4": "Ottawa",
+    "answer": 4,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "choice1": "Johannesburg",
+    "choice2": "Cape Town",
+    "choice3": "Durban",
+    "choice4": "Pretoria",
+    "answer": 4,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "choice1": "Sydney",
+    "choice2": "Melbourne",
+    "choice3": "Perth",
+    "choice4": "Canberra",
+    "answer": 4,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "choice1": "Lisbon",
+    "choice2": "Barcelona",
+    "choice3": "Seville",
+    "choice4": "Madrid",
+    "answer": 4,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "choice1": "Buenos Aires",
+    "choice2": "Santiago",
+    "choice3": "Lima",
+    "choice4": "Montevideo",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Mexico?",
+    "choice1": "Monterrey",
+    "choice2": "Cancún",
+    "choice3": "Mexico City",
+    "choice4": "Guadalajara",
+    "answer": 3,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "choice1": "Seoul",
+    "choice2": "Busan",
+    "choice3": "Incheon",
+    "choice4": "Daegu",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Saudi Arabia?",
+    "choice1": "Jeddah",
+    "choice2": "Mecca",
+    "choice3": "Riyadh",
+    "choice4": "Medina",
+    "answer": 3,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "choice1": "Lagos",
+    "choice2": "Abuja",
+    "choice3": "Kano",
+    "choice4": "Ibadan",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Turkey?",
+    "choice1": "Istanbul",
+    "choice2": "Ankara",
+    "choice3": "Izmir",
+    "choice4": "Antalya",
+    "answer": 2,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Greece?",
+    "choice1": "Athens",
+    "choice2": "Thessaloniki",
+    "choice3": "Patras",
+    "choice4": "Heraklion",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Iran?",
+    "choice1": "Tehran",
+    "choice2": "Shiraz",
+    "choice3": "Isfahan",
+    "choice4": "Tabriz",
+    "answer": 1,
+    "id": "Geography"
+  },
+  {
+    "question": "What is the capital of Indonesia?",
+    "choice1": "Jakarta",
+    "choice2": "Surabaya",
+    "choice3": "Bandung",
+    "choice4": "Medan",
+    "answer": 1,
+    "id": "Geography"
+  },
+   {
+    "question": "What is the term for God's communication of himself to us?",
+    "choice1": "Revelation",
+    "choice2": "Salvation",
+    "choice3": "Atonement",
+    "choice4": "Inspiration",
+    "answer": 1,
+    "id": "Catechism"
+  },
+  {
+    "question": "What sacrament is known as the 'Sacrament of Penance' or 'Reconciliation'?",
+    "choice1": "Baptism",
+    "choice2": "Confirmation",
+    "choice3": "Eucharist",
+    "choice4": "Confession",
+    "answer": 4,
+    "id": "Catechism"
+  },
+  {
+    "question": "Who was the mother of Jesus?",
+    "choice1": "Mary Magdalene",
+    "choice2": "Martha",
+    "choice3": "Mary of Nazareth",
+    "choice4": "Elizabeth",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the first commandment?",
+    "choice1": "You shall not steal",
+    "choice2": "You shall not commit adultery",
+    "choice3": "You shall not covet",
+    "choice4": "You shall have no other gods before me",
+    "answer": 4,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the holy day of rest and worship for Christians?",
+    "choice1": "Saturday",
+    "choice2": "Sunday",
+    "choice3": "Friday",
+    "choice4": "Wednesday",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "Which angel announced to Mary that she would give birth to Jesus?",
+    "choice1": "Gabriel",
+    "choice2": "Michael",
+    "choice3": "Raphael",
+    "choice4": "Uriel",
+    "answer": 1,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the act of God becoming man in the person of Jesus Christ?",
+    "choice1": "Incarnation",
+    "choice2": "Resurrection",
+    "choice3": "Ascension",
+    "choice4": "Atonement",
+    "answer": 1,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the second person of the Holy Trinity?",
+    "choice1": "The Father",
+    "choice2": "The Holy Spirit",
+    "choice3": "The Son",
+    "choice4": "The Blessed Virgin Mary",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the forgiveness of sins and the restoration of friendship with God?",
+    "choice1": "Redemption",
+    "choice2": "Atonement",
+    "choice3": "Salvation",
+    "choice4": "Justification",
+    "answer": 4,
+    "id": "Catechism"
+  },
+  {
+    "question": "Who is considered the first pope of the Catholic Church?",
+    "choice1": "Saint Peter",
+    "choice2": "Saint Paul",
+    "choice3": "Saint Andrew",
+    "choice4": "Saint James",
+    "answer": 1,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the name of the prayer that Jesus taught his disciples, also known as the 'Our Father'?",
+    "choice1": "Hail Mary",
+    "choice2": "Glory Be",
+    "choice3": "The Lord's Prayer",
+    "choice4": "Nicene Creed",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the act of declaring a person a saint in the Catholic Church?",
+    "choice1": "Sanctification",
+    "choice2": "Canonization",
+    "choice3": "Beatification",
+    "choice4": "Excommunication",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "Which of the following is NOT one of the Ten Commandments?",
+    "choice1": "You shall not steal.",
+    "choice2": "You shall not bear false witness against your neighbor.",
+    "choice3": "You shall not make graven images.",
+    "choice4": "You shall not covet your neighbor's wife.",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the Catholic belief that, after consecration, the bread and wine used in the Eucharist become the actual body and blood of Christ?",
+    "choice1": "Transubstantiation",
+    "choice2": "Consubstantiation",
+    "choice3": "Symbolism",
+    "choice4": "Metamorphosis",
+    "answer": 1,
+    "id": "Catechism"
+  },
+  {
+    "question": "Who is considered the author of the Bible, inspired by God?",
+    "choice1": "Priests",
+    "choice2": "Prophets",
+    "choice3": "Human authors",
+    "choice4": "God",
+    "answer": 4,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the first sacrament received by a Catholic?",
+    "choice1": "Confirmation",
+    "choice2": "Eucharist",
+    "choice3": "Baptism",
+    "choice4": "Reconciliation",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the name of the prayer that asks for the intercession of the Virgin Mary, mother of Jesus?",
+    "choice1": "Our Father",
+    "choice2": "Hail Mary",
+    "choice3": "Glory Be",
+    "choice4": "Nicene Creed",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the act of offering praise and worship to God?",
+    "choice1": "Adoration",
+    "choice2": "Confession",
+    "choice3": "Intercession",
+    "choice4": "Benediction",
+    "answer": 1,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the name of the sacred meal that commemorates the Last Supper of Jesus?",
+    "choice1": "Passover",
+    "choice2": "Mass",
+    "choice3": "Communion",
+    "choice4": "Liturgy",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the process by which a person becomes a member of the Catholic Church?",
+    "choice1": "Conversion",
+    "choice2": "Initiation",
+    "choice3": "Baptism",
+    "choice4": "Confirmation",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the belief in one God?",
+    "choice1": "Polytheism",
+    "choice2": "Monotheism",
+    "choice3": "Atheism",
+    "choice4": "Agnosticism",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the official teaching authority of the Catholic Church, especially as exercised by the bishops in communion with the Pope?",
+    "choice1": "Catechism",
+    "choice2": "Doctrine",
+    "choice3": "Magisterium",
+    "choice4": "Liturgy",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the act of giving thanks to God, especially in the Eucharist?",
+    "choice1": "Thanksgiving",
+    "choice2": "Praise",
+    "choice3": "Offering",
+    "choice4": "Benediction",
+    "answer": 1,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the name of the holy day that commemorates the resurrection of Jesus Christ from the dead?",
+    "choice1": "Good Friday",
+    "choice2": "Palm Sunday",
+    "choice3": "Easter Sunday",
+    "choice4": "Holy Saturday",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the act of helping those in need, especially the poor and disadvantaged?",
+    "choice1": "Charity",
+    "choice2": "Almsgiving",
+    "choice3": "Mercy",
+    "choice4": "Compassion",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the name of the Christian sacrament in which bread and wine are consecrated and consumed as the body and blood of Christ?",
+    "choice1": "Baptism",
+    "choice2": "Eucharist",
+    "choice3": "Confirmation",
+    "choice4": "Reconciliation",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the belief in three persons in one God, as in the Holy Trinity?",
+    "choice1": "Henotheism",
+    "choice2": "Dualism",
+    "choice3": "Polytheism",
+    "choice4": "Trinitarianism",
+    "answer": 4,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the name of the prayer used to seek God's guidance and assistance in making decisions?",
+    "choice1": "The Rosary",
+    "choice2": "The Chaplet",
+    "choice3": "The Lord's Prayer",
+    "choice4": "The Serenity Prayer",
+    "answer": 4,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the belief in the existence of one God without denying the existence of other deities?",
+    "choice1": "Atheism",
+    "choice2": "Polytheism",
+    "choice3": "Monotheism",
+    "choice4": "Pantheism",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the formal statement of Christian beliefs, often recited during worship services?",
+    "choice1": "Creed",
+    "choice2": "Canon",
+    "choice3": "Catechism",
+    "choice4": "Liturgy",
+    "answer": 1,
+    "id": "Catechism"
+  },
+  {
+    "question": "Who is the central figure of Christianity and believed to be the Son of God?",
+    "choice1": "Moses",
+    "choice2": "Abraham",
+    "choice3": "Jesus Christ",
+    "choice4": "John the Baptist",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the spiritual purification process that prepares souls for heaven?",
+    "choice1": "Atonement",
+    "choice2": "Purgatory",
+    "choice3": "Redemption",
+    "choice4": "Resurrection",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the Catholic belief in the resurrection of the body and the reunion of the soul with the body at the end of time?",
+    "choice1": "Assumption",
+    "choice2": "Ascension",
+    "choice3": "Resurrection",
+    "choice4": "Transfiguration",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the act of speaking or praying in unknown languages, often associated with the Holy Spirit's presence?",
+    "choice1": "Prophecy",
+    "choice2": "Glossolalia",
+    "choice3": "Exorcism",
+    "choice4": "Benediction",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the special role of the Pope as the highest authority in the Catholic Church?",
+    "choice1": "Primacy",
+    "choice2": "Patriarchy",
+    "choice3": "Episcopacy",
+    "choice4": "Monarchy",
+    "answer": 1,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the act of publicly renouncing one's faith or religious beliefs?",
+    "choice1": "Apostasy",
+    "choice2": "Heresy",
+    "choice3": "Blasphemy",
+    "choice4": "Idolatry",
+    "answer": 1,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the name of the Church council held in the 4th century that formulated the Nicene Creed?",
+    "choice1": "Council of Trent",
+    "choice2": "Council of Nicaea",
+    "choice3": "Council of Chalcedon",
+    "choice4": "Council of Ephesus",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "Who is the patron saint of animals and the environment?",
+    "choice1": "Saint Francis of Assisi",
+    "choice2": "Saint Anthony of Padua",
+    "choice3": "Saint Jude",
+    "choice4": "Saint Christopher",
+    "answer": 1,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the official collection of teachings and laws of the Catholic Church?",
+    "choice1": "Bible",
+    "choice2": "Catechism",
+    "choice3": "Doctrine",
+    "choice4": "Canon Law",
+    "answer": 4,
+    "id": "Catechism"
+  },
+  {
+    "question": "Who was the first woman created by God according to the Bible?",
+    "choice1": "Eve",
+    "choice2": "Mary",
+    "choice3": "Sarah",
+    "choice4": "Rachel",
+    "answer": 1,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the place where the consecrated Eucharist is reserved for adoration and distribution to the sick?",
+    "choice1": "Altar",
+    "choice2": "Tabernacle",
+    "choice3": "Sanctuary",
+    "choice4": "Pulpit",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the belief in the existence of many gods?",
+    "choice1": "Monotheism",
+    "choice2": "Henotheism",
+    "choice3": "Atheism",
+    "choice4": "Deism",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "Who is considered the author of the Acts of the Apostles in the New Testament?",
+    "choice1": "Saint Peter",
+    "choice2": "Saint Paul",
+    "choice3": "Saint James",
+    "choice4": "Saint Luke",
+    "answer": 4,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the belief that all souls will ultimately be saved and reconciled with God?",
+    "choice1": "Universalism",
+    "choice2": "Predestination",
+    "choice3": "Atonement",
+    "choice4": "Redemption",
+    "answer": 1,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the public worship and liturgical celebration of the Catholic Church?",
+    "choice1": "Prayer",
+    "choice2": "Devotion",
+    "choice3": "Liturgy",
+    "choice4": "Benediction",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the name of the Christian holiday that celebrates the descent of the Holy Spirit upon the apostles?",
+    "choice1": "Christmas",
+    "choice2": "Epiphany",
+    "choice3": "Pentecost",
+    "choice4": "Ascension",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the belief in the existence of a single, transcendent God who created and sustains the universe?",
+    "choice1": "Pantheism",
+    "choice2": "Monotheism",
+    "choice3": "Deism",
+    "choice4": "Agnosticism",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the act of receiving the body and blood of Christ during the Eucharistic celebration?",
+    "choice1": "Consecration",
+    "choice2": "Transubstantiation",
+    "choice3": "Communion",
+    "choice4": "Benediction",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "Who is the father of Abraham and a central figure in the Old Testament?",
+    "choice1": "Isaac",
+    "choice2": "Jacob",
+    "choice3": "Noah",
+    "choice4": "Terah",
+    "answer": 4,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the belief in the existence of a divine force or spirit in all things?",
+    "choice1": "Pantheism",
+    "choice2": "Monotheism",
+    "choice3": "Deism",
+    "choice4": "Polytheism",
+    "answer": 1,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the act of speaking or preaching about religious topics in a public setting?",
+    "choice1": "Worship",
+    "choice2": "Preaching",
+    "choice3": "Evangelization",
+    "choice4": "Benediction",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "Who is the patron saint of lost causes and desperate situations?",
+    "choice1": "Saint Christopher",
+    "choice2": "Saint Jude",
+    "choice3": "Saint Anthony of Padua",
+    "choice4": "Saint Francis of Assisi",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the act of making amends for one's sins and turning away from sinful behavior?",
+    "choice1": "Repentance",
+    "choice2": "Confession",
+    "choice3": "Penance",
+    "choice4": "Redemption",
+    "answer": 1,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the name of the Christian sacrament in which individuals publicly profess their faith and commitment to Christ?",
+    "choice1": "Baptism",
+    "choice2": "Eucharist",
+    "choice3": "Confirmation",
+    "choice4": "Reconciliation",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the act of publicly proclaiming and spreading the Christian faith?",
+    "choice1": "Worship",
+    "choice2": "Devotion",
+    "choice3": "Evangelization",
+    "choice4": "Confession",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the name of the Christian holiday that commemorates the visit of the Magi to the infant Jesus?",
+    "choice1": "Easter",
+    "choice2": "Christmas",
+    "choice3": "Epiphany",
+    "choice4": "Pentecost",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the belief in the existence of a personal, loving God who is actively involved in the world?",
+    "choice1": "Deism",
+    "choice2": "Monotheism",
+    "choice3": "Pantheism",
+    "choice4": "Polytheism",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "Who is considered the 'Apostle to the Gentiles' and wrote many of the letters (epistles) in the New Testament?",
+    "choice1": "Saint Peter",
+    "choice2": "Saint John",
+    "choice3": "Saint James",
+    "choice4": "Saint Paul",
+    "answer": 4,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the act of seeking forgiveness for one's sins and receiving God's mercy?",
+    "choice1": "Repentance",
+    "choice2": "Penance",
+    "choice3": "Redemption",
+    "choice4": "Atonement",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the name of the holy day that commemorates the death of Jesus Christ on the cross?",
+    "choice1": "Good Friday",
+    "choice2": "Palm Sunday",
+    "choice3": "Easter Sunday",
+    "choice4": "Holy Saturday",
+    "answer": 1,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the act of turning away from sin and returning to God's love and grace?",
+    "choice1": "Repentance",
+    "choice2": "Confession",
+    "choice3": "Purgation",
+    "choice4": "Sanctification",
+    "answer": 1,
+    "id": "Catechism"
+  },
+  {
+    "question": "Who is the patron saint of children, students, and scholars?",
+    "choice1": "Saint Jude",
+    "choice2": "Saint Francis of Assisi",
+    "choice3": "Saint Anthony of Padua",
+    "choice4": "Saint Thomas Aquinas",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the teaching that there is only one God in three persons: Father, Son, and Holy Spirit?",
+    "choice1": "Trinitarianism",
+    "choice2": "Unitarianism",
+    "choice3": "Monotheism",
+    "choice4": "Henotheism",
+    "answer": 1,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the belief in the existence of a distant, uninvolved deity who created the universe?",
+    "choice1": "Pantheism",
+    "choice2": "Monotheism",
+    "choice3": "Deism",
+    "choice4": "Atheism",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the name of the Christian sacrament in which individuals are anointed with holy oil as a sign of the gift of the Holy Spirit?",
+    "choice1": "Baptism",
+    "choice2": "Eucharist",
+    "choice3": "Confirmation",
+    "choice4": "Anointing of the Sick",
+    "answer": 3,
+    "id": "Catechism"
+  },
+  {
+    "question": "Who is the patron saint of those who have lost or are in danger of losing their jobs?",
+    "choice1": "Saint Joseph",
+    "choice2": "Saint Rita",
+    "choice3": "Saint Jude",
+    "choice4": "Saint Dymphna",
+    "answer": 2,
+    "id": "Catechism"
+  },
+  {
+    "question": "What is the term for the Christian belief in the resurrection of the dead and the final judgment?",
+    "choice1": "Assumption",
+    "choice2": "Ascension",
+    "choice3": "Resurrection",
+    "choice4": "Transfiguration",
+    "answer": 3,
+    "id": "Catechism"
+  }
+  
+]
